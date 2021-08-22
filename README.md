@@ -32,6 +32,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/vladirod" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white"      target="_blank"></a>  
 </div>
   
-<br>
+<!-- <br>
   
 ![Snake animation](https://github.com/vladimirrodrigues/vladimirrodrigues/blob/output/github-contribution-grid-snake.svg)
+
+-->
